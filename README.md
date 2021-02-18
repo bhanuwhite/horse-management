@@ -31,7 +31,7 @@ A new horse data could be added by clciking on create new horse button and the f
 
 
 Pending point
-
+========================================
 - user should see a "Possible birth" warning if horse is female and pregnant and the average
 heart rate was above 40 in the last 15 seconds
 
